@@ -7,3 +7,11 @@
     /*transform: skew();*/
     /*transform: scale();*/
 }
+
+img     {
+    transition: transform 1s ease-in;
+}
+
+img:hover     {
+    transform: scale(2);
+}
