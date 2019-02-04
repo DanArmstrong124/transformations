@@ -1,0 +1,9 @@
+.box    {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    transform: translate(200px, 200px);
+    /*transform: rotate(50deg);*/
+    /*transform: skew();*/
+    /*transform: scale();*/
+}
